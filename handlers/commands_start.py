@@ -14,4 +14,3 @@ async def cmd_start(message: types.Message):
 
 📲ЖМИ СЮДА👇👇👇""",parse_mode='html',reply_markup=markup)
 
-    await bot.send_document(caption=f"<a href = 'https://t.me/joinchat/210zpSjfKZ8wZDAy'>👉SECRET ARCHIVER 44/50⛓</a>")
